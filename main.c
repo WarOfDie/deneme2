@@ -15,7 +15,7 @@
 #include "driverlib/adc.h"
 #include "lcd.h"
 #include "driverlib/uart.c"
-
+//yeni commit mesajý usman nere
 uint32_t gelendeger[4];
 uint32_t adcveri[4];
 uint32_t gelenveri[8];
